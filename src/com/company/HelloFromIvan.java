@@ -6,6 +6,7 @@ public class HelloFromIvan {
         // The end line character happens automatically when we use
         // the println() function.
         System.out.println("Hello From Ivan");
+        System.out.println("Hello Ivan, my name is Andres");
     }
 
     public static void main(String[] args) {
